@@ -7,15 +7,15 @@ This skill is highly valuable across numerous industries, such as finance, busin
 
 ## Projects
 ### 1. Energy Appliances Analysis & forecasting
-Overview: Analsing the trend and seasonalities of appliances energy consumption for each household
+- Overview: Analsing the trend and seasonalities of appliances energy consumption for each household
 
-Goal: To understand the trends and seasonalities and predict *hourly* appliances energy consumption for the next 1 month
+- Goal: To understand the trends and seasonalities and predict *hourly* appliances energy consumption for the next 1 month
 
-Technologies: Python and  Facebook Prophet 
+- Technologies: Python and  Facebook Prophet 
 
 ### 2. India power consumption forecasting
-Overview: Analyse the impact of Covid-19 on India's power consumption 
+- Overview: Analyse the impact of Covid-19 on India's power consumption 
 
-Goal: forecast average *daily average* power consumption for the next 1 year
+- Goal: forecast average *daily average* power consumption for the next 1 year
 
-Technologies: Python and  Facebook Prophet
+- Technologies: Python and  Facebook Prophet
